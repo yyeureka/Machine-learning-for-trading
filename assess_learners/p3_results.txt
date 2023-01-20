@@ -1,0 +1,6 @@
+100-loop DT training time: 10.64307165145874
+100-loop RT training time: 2.3133089542388916
+100-loop DT average height: 10.0
+100-loop RT average height: 16.24
+100-loop DT query time: 0.4687471389770508
+100-loop RT query time: 0.5000011920928955
