@@ -1,0 +1,9 @@
+Portfolio:
+Cumulative return: 5.7861
+Mean of daily returns: 0.0038167861508578197
+Stdev of daily returns: 0.004547823197907996
+
+Benchmark:
+Cumulative return: 0.012299999999999978
+Mean of daily returns: 0.00016808697819094035
+Stdev of daily returns: 0.017004366271213767
