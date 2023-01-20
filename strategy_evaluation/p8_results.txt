@@ -1,0 +1,39 @@
+In sample:
+Manual strategy:
+Cumulative return: 0.07786949999999981
+Mean of daily returns: 0.00024738310554220686
+Stdev of daily returns: 0.014062662112991623
+Strategy learner:
+Cumulative return: 1.4583549605519526
+Mean of daily returns: 0.001840381056301845
+Stdev of daily returns: 0.010438537250439408
+Benchmark:
+Cumulative return: 0.012299999999999978
+Mean of daily returns: 0.00016808697819094035
+Stdev of daily returns: 0.017004366271213767
+
+Out of sample:
+Manual strategy:
+Cumulative return: 0.24551200000000062
+Mean of daily returns: 0.0004631185866388959
+Stdev of daily returns: 0.00729773386213839
+Strategy learner:
+Cumulative return: 0.3545502543056285
+Mean of daily returns: 0.0006291566020107074
+Stdev of daily returns: 0.007170143653191617
+Benchmark:
+Cumulative return: -0.08340000000000003
+Mean of daily returns: -0.00013720316019481813
+Stdev of daily returns: 0.008481007498803986
+
+Impact=0.0: 505
+
+Impact=0.005: 505
+
+Impact=0.01: 505
+
+Impact=0.05: 503
+
+Impact=0.1: 450
+
+Impact=0.2: 317
